@@ -1,4 +1,4 @@
-# arquivo de teste para treianmento Git
+# arquivo de teste para treinamento Git
 
 # Tecnologias Usadas
 
